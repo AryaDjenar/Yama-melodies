@@ -27,4 +27,4 @@ Thank you to the creators of the **Yamanotes** and **Yamanote.style** projects, 
 
 ---
 
-<H2>[Start your virtual Yamanote line journey here](https://adjlearn.github.io/Yama-melodies/)</H2>
+<H2><b>[START](https://adjlearn.github.io/Yama-melodies/)</b></H2>
