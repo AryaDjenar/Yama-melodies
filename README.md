@@ -27,4 +27,4 @@ Thank you to the creators of the **Yamanotes** and **Yamanote.style** projects, 
 
 ---
 
-Enjoy your virtual journey around Tokyo’s Yamanote Line!
+<H2>[Start your virtual Yamanote line journey here](https://adjlearn.github.io/Yama-melodies/)</H2>
